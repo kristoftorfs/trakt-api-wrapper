@@ -11,7 +11,7 @@
   "require": {
     "php": ">=5.4.7",
     "guzzlehttp/guzzle": "~5.0@dev",
-    "nesbot/carbon": "dev-master",
+    "nesbot/carbon": "~1.18",
     "league/oauth2-client": "0.8.*@dev",
     "league/url": "~4.0@dev"
   },
